@@ -20,5 +20,5 @@ ___
 Version: 0.1 - No Updates are expected
 
 ### License
-This project is licensed under the [GPL-3.0](https://github.com/Nolezor/webreaderscanner/blob/main/LICENSE.md) License - see the LICENSE.md file for details
+This project is licensed under the [GPL-3.0](https://github.com/Nolezor/webreader_scanner/blob/main/LICENSE.md) License - see the LICENSE.md file for details
 ___
